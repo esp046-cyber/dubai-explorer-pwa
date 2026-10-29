@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Dubai Explorer: Ultimate Tourist &amp; Urban Guide</title>
+<meta name="description" content="Offline-first guide to 100+ curated Dubai places: museums, views, food, cafes, active spots and indoor chill, with GPS and metro info.">
+<meta name="theme-color" content="#0b0b12">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Dubai Explorer: Ultimate Tourist &amp; Urban Guide">
+<meta property="og:description" content="100+ curated Dubai places with GPS, Google Maps links and nearest metro. Works offline.">
+<meta property="og:image" content="assets/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Dubai Explorer">
+<meta name="twitter:description" content="Offline-first Dubai guide with 100+ places.">
+<meta name="twitter:image" content="assets/og-image.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Dubai Explorer">
+<meta name="msapplication-config" content="browserconfig.xml">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="favicon.ico">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand"><img src="assets/logo.svg" alt="" width="34" height="34"><div><h1>Dubai Explorer</h1><p>Ultimate Tourist &amp; Urban Guide</p></div></div>
+  <button id="installBtn" class="gold-btn" hidden>Install</button>
+</header>
+<main>
+  <section class="controls" aria-label="Search and filters">
+    <input id="search" type="search" placeholder="Search places, tags, metro…" aria-label="Search places" autocomplete="off">
+    <div id="chips" class="chips" role="tablist"></div>
+    <p id="count" class="muted" aria-live="polite"></p>
+  </section>
+  <section id="grid" class="grid" aria-label="Places"></section>
+  <p id="empty" class="muted center" hidden>No places match your search.</p>
+  <aside id="iosHint" class="hint" hidden>On iPhone: tap Share, then “Add to Home Screen”.</aside>
+</main>
+<nav class="bottom" aria-label="Primary">
+  <button data-view="all" class="on">🧭<span>Explore</span></button>
+  <button data-view="favs">⭐<span>Saved</span></button>
+  <button id="topBtn">⬆️<span>Top</span></button>
+</nav>
+<div id="drawer" class="drawer" hidden role="dialog" aria-modal="true" aria-labelledby="dTitle">
+  <div class="sheet"><button id="close" class="close" aria-label="Close">✕</button><div id="dBody"></div></div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
