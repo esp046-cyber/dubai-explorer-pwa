@@ -1,0 +1,1772 @@
+{
+ "version": "1.0.0",
+ "count": 102,
+ "categories": [
+  {
+   "id": "museum",
+   "icon": "🏛️",
+   "name": "Museums & Culture"
+  },
+  {
+   "id": "views",
+   "icon": "🌆",
+   "name": "Iconic Views & Sights"
+  },
+  {
+   "id": "food",
+   "icon": "🍽️",
+   "name": "Food & Dining"
+  },
+  {
+   "id": "cafe",
+   "icon": "☕",
+   "name": "Cafes, Nightlife & Drinks"
+  },
+  {
+   "id": "active",
+   "icon": "🏃",
+   "name": "Run, Bike & Active"
+  },
+  {
+   "id": "indoor",
+   "icon": "❄️",
+   "name": "Air-Con Refresh & Indoor Chill"
+  }
+ ],
+ "places": [
+  {
+   "id": 1,
+   "name": "Museum of the Future",
+   "category": "museum",
+   "badge": "🏛️ Museums & Culture",
+   "tags": [
+    "futuristic",
+    "architecture",
+    "calligraphy"
+   ],
+   "description": "Torus-shaped icon wrapped in Arabic calligraphy with immersive future exhibits.",
+   "tip": "Book timed tickets online; go at opening to skip queues.",
+   "lat": 25.2194,
+   "lng": 55.282,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2194,55.282",
+   "transit": "Emirates Towers Metro"
+  },
+  {
+   "id": 2,
+   "name": "Dubai Frame",
+   "category": "museum",
+   "badge": "🏛️ Museums & Culture",
+   "tags": [
+    "skyline",
+    "glass-bridge",
+    "old-vs-new"
+   ],
+   "description": "48-storey picture frame with a glass-floor skybridge linking old and new Dubai.",
+   "tip": "Visit near sunset for views of both skylines.",
+   "lat": 25.2349,
+   "lng": 55.3004,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2349,55.3004",
+   "transit": "Dubai Healthcare City / Creek Metro + taxi"
+  },
+  {
+   "id": 3,
+   "name": "Al Shindagha Museum",
+   "category": "museum",
+   "badge": "🏛️ Museums & Culture",
+   "tags": [
+    "heritage",
+    "creek",
+    "history"
+   ],
+   "description": "Waterfront heritage district telling Dubai's pre-oil story.",
+   "tip": "Combine with Al Seef and an abra ride.",
+   "lat": 25.2634,
+   "lng": 55.2927,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2634,55.2927",
+   "transit": "Al Ghubaiba Metro"
+  },
+  {
+   "id": 4,
+   "name": "Etihad Museum",
+   "category": "museum",
+   "badge": "🏛️ Museums & Culture",
+   "tags": [
+    "uae-history",
+    "union",
+    "architecture"
+   ],
+   "description": "Museum on the founding of the UAE at the Union House site.",
+   "tip": "Allow 90 minutes; the film is worth it.",
+   "lat": 25.2347,
+   "lng": 55.2681,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2347,55.2681",
+   "transit": "Bus 8 / Al Jafiliya Metro + taxi"
+  },
+  {
+   "id": 5,
+   "name": "Al Fahidi Historical Neighbourhood",
+   "category": "museum",
+   "badge": "🏛️ Museums & Culture",
+   "tags": [
+    "wind-towers",
+    "galleries",
+    "walking"
+   ],
+   "description": "Restored wind-tower lanes full of galleries and courtyards.",
+   "tip": "Go early or evening; shaded lanes but hot midday.",
+   "lat": 25.2637,
+   "lng": 55.2972,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2637,55.2972",
+   "transit": "Al Fahidi Metro"
+  },
+  {
+   "id": 6,
+   "name": "Coffee Museum",
+   "category": "museum",
+   "badge": "🏛️ Museums & Culture",
+   "tags": [
+    "coffee",
+    "heritage",
+    "house"
+   ],
+   "description": "Small Al Fahidi house museum on the history of Arabic coffee.",
+   "tip": "Ask for a tasting of Arabic coffee with dates.",
+   "lat": 25.2632,
+   "lng": 55.2999,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2632,55.2999",
+   "transit": "Al Fahidi Metro"
+  },
+  {
+   "id": 7,
+   "name": "Heritage House",
+   "category": "museum",
+   "badge": "🏛️ Museums & Culture",
+   "tags": [
+    "family-home",
+    "1890",
+    "traditions"
+   ],
+   "description": "One of Dubai's oldest preserved family houses, in Al Ras.",
+   "tip": "Opens in the morning; short visit, pair with Gold Souk.",
+   "lat": 25.2693,
+   "lng": 55.2984,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2693,55.2984",
+   "transit": "Al Ras Metro"
+  },
+  {
+   "id": 8,
+   "name": "Sheikh Saeed Al Maktoum House",
+   "category": "museum",
+   "badge": "🏛️ Museums & Culture",
+   "tags": [
+    "royal",
+    "photos",
+    "creek"
+   ],
+   "description": "Former residence of Dubai's ruler with rare historic photographs.",
+   "tip": "Free-flowing 45-minute visit near Shindagha.",
+   "lat": 25.264,
+   "lng": 55.292,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.264,55.292",
+   "transit": "Al Ghubaiba Metro"
+  },
+  {
+   "id": 9,
+   "name": "Al Fahidi Fort (Dubai Museum)",
+   "category": "museum",
+   "badge": "🏛️ Museums & Culture",
+   "tags": [
+    "fort",
+    "1787",
+    "history"
+   ],
+   "description": "Oldest existing building in Dubai, with historical dioramas.",
+   "tip": "Check current opening status before visiting.",
+   "lat": 25.2634,
+   "lng": 55.2969,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2634,55.2969",
+   "transit": "Al Fahidi Metro"
+  },
+  {
+   "id": 10,
+   "name": "Jameel Arts Centre",
+   "category": "museum",
+   "badge": "🏛️ Museums & Culture",
+   "tags": [
+    "contemporary-art",
+    "creek",
+    "cafe"
+   ],
+   "description": "Contemporary art centre on the Creek with a lovely terrace.",
+   "tip": "Free general entry on most days; great sunset terrace.",
+   "lat": 25.2166,
+   "lng": 55.3394,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2166,55.3394",
+   "transit": "Creek Metro + taxi"
+  },
+  {
+   "id": 11,
+   "name": "Alserkal Avenue",
+   "category": "museum",
+   "badge": "🏛️ Museums & Culture",
+   "tags": [
+    "galleries",
+    "warehouses",
+    "design"
+   ],
+   "description": "Al Quoz warehouse art district with galleries, cafes and concept stores.",
+   "tip": "Visit Tuesday to Saturday afternoons for most openings.",
+   "lat": 25.1426,
+   "lng": 55.2262,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1426,55.2262",
+   "transit": "Noor Bank Metro + taxi"
+  },
+  {
+   "id": 12,
+   "name": "Jumeirah Mosque",
+   "category": "museum",
+   "badge": "🏛️ Museums & Culture",
+   "tags": [
+    "mosque",
+    "tour",
+    "architecture"
+   ],
+   "description": "One of few mosques open to non-Muslim visitors on guided tours.",
+   "tip": "Dress modestly; tours run on set mornings.",
+   "lat": 25.2335,
+   "lng": 55.2655,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2335,55.2655",
+   "transit": "Bus 8 / taxi"
+  },
+  {
+   "id": 13,
+   "name": "Dubai Opera",
+   "category": "museum",
+   "badge": "🏛️ Museums & Culture",
+   "tags": [
+    "opera",
+    "theatre",
+    "downtown"
+   ],
+   "description": "Dhow-shaped performing arts venue beside Burj Khalifa.",
+   "tip": "Check the programme; dine on the Boulevard before shows.",
+   "lat": 25.1958,
+   "lng": 55.2745,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1958,55.2745",
+   "transit": "Burj Khalifa/Dubai Mall Metro"
+  },
+  {
+   "id": 14,
+   "name": "Hatta Heritage Village",
+   "category": "museum",
+   "badge": "🏛️ Museums & Culture",
+   "tags": [
+    "mountains",
+    "village",
+    "hatta"
+   ],
+   "description": "Reconstructed mountain village with forts, watchtowers and crafts.",
+   "tip": "Take the E16 bus from Al Ghubaiba; cooler in winter.",
+   "lat": 24.8044,
+   "lng": 56.1219,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=24.8044,56.1219",
+   "transit": "Bus E16 from Al Ghubaiba"
+  },
+  {
+   "id": 15,
+   "name": "Saruq Al Hadid Archaeology Museum",
+   "category": "museum",
+   "badge": "🏛️ Museums & Culture",
+   "tags": [
+    "archaeology",
+    "bronze-age",
+    "iron-age"
+   ],
+   "description": "Artefacts from a 4000-year-old desert site near Shindagha.",
+   "tip": "Quiet museum, excellent for a short cool visit.",
+   "lat": 25.265,
+   "lng": 55.294,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.265,55.294",
+   "transit": "Al Ghubaiba Metro"
+  },
+  {
+   "id": 16,
+   "name": "Al Seef Heritage Waterfront",
+   "category": "museum",
+   "badge": "🏛️ Museums & Culture",
+   "tags": [
+    "creek",
+    "cafes",
+    "heritage-style"
+   ],
+   "description": "Creek-side promenade mixing old-style architecture and cafes.",
+   "tip": "Best after sunset when lights come on.",
+   "lat": 25.2642,
+   "lng": 55.3028,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2642,55.3028",
+   "transit": "Al Fahidi Metro + 10 min walk"
+  },
+  {
+   "id": 17,
+   "name": "Majlis Gallery",
+   "category": "museum",
+   "badge": "🏛️ Museums & Culture",
+   "tags": [
+    "art",
+    "courtyard",
+    "crafts"
+   ],
+   "description": "Courtyard gallery in a traditional wind-tower house in Al Fahidi.",
+   "tip": "Pair with XVA Cafe next door.",
+   "lat": 25.2644,
+   "lng": 55.2975,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2644,55.2975",
+   "transit": "Al Fahidi Metro"
+  },
+  {
+   "id": 18,
+   "name": "Burj Khalifa At The Top",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "tallest",
+    "observation",
+    "downtown"
+   ],
+   "description": "Observation decks at the world's tallest building.",
+   "tip": "Book sunset slots weeks ahead; arrive 30 min early.",
+   "lat": 25.1972,
+   "lng": 55.2744,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1972,55.2744",
+   "transit": "Burj Khalifa/Dubai Mall Metro"
+  },
+  {
+   "id": 19,
+   "name": "The View at The Palm",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "palm",
+    "skyline",
+    "sunset"
+   ],
+   "description": "Observation deck atop Palm Tower with views over the Palm and Marina.",
+   "tip": "Go at golden hour; use the Palm Monorail.",
+   "lat": 25.1123,
+   "lng": 55.139,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1123,55.139",
+   "transit": "Palm Gateway Monorail"
+  },
+  {
+   "id": 20,
+   "name": "Sky Views Observatory",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "glass-slide",
+    "edge-walk",
+    "downtown"
+   ],
+   "description": "Observation deck and glass slide at the Address Sky View.",
+   "tip": "Choose a clear afternoon for full visibility.",
+   "lat": 25.1893,
+   "lng": 55.2596,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1893,55.2596",
+   "transit": "Burj Khalifa/Dubai Mall Metro + taxi"
+  },
+  {
+   "id": 21,
+   "name": "Ain Dubai",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "ferris-wheel",
+    "bluewaters",
+    "marina"
+   ],
+   "description": "Giant observation wheel on Bluewaters Island.",
+   "tip": "Check operating status before planning.",
+   "lat": 25.0795,
+   "lng": 55.1226,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.0795,55.1226",
+   "transit": "JBR 1 Tram + walk"
+  },
+  {
+   "id": 22,
+   "name": "Dubai Creek Harbour Vista",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "skyline",
+    "creek",
+    "sunset"
+   ],
+   "description": "Waterfront promenade with Burj Khalifa skyline across the water.",
+   "tip": "Go golden hour; breezy and quiet.",
+   "lat": 25.205,
+   "lng": 55.349,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.205,55.349",
+   "transit": "Creek Metro + taxi"
+  },
+  {
+   "id": 23,
+   "name": "The Dubai Fountain",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "show",
+    "downtown",
+    "free"
+   ],
+   "description": "Choreographed fountain show on Burj Khalifa Lake.",
+   "tip": "Shows every 30 min in evenings; stand at the boardwalk.",
+   "lat": 25.1952,
+   "lng": 55.2753,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1952,55.2753",
+   "transit": "Burj Khalifa/Dubai Mall Metro"
+  },
+  {
+   "id": 24,
+   "name": "Burj Al Arab Viewpoint (Umm Suqeim)",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "burj-al-arab",
+    "beach",
+    "photos"
+   ],
+   "description": "Classic public beach viewpoint of the sail-shaped hotel.",
+   "tip": "Sunset gives the best photos; parking is limited.",
+   "lat": 25.1414,
+   "lng": 55.1853,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1414,55.1853",
+   "transit": "Mall of the Emirates Metro + taxi"
+  },
+  {
+   "id": 25,
+   "name": "Palm Jumeirah Boardwalk",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "palm",
+    "promenade",
+    "atlantis"
+   ],
+   "description": "Elevated promenade on the Palm's trunk with skyline views.",
+   "tip": "Take the monorail out and walk back toward the Gateway.",
+   "lat": 25.1115,
+   "lng": 55.139,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1115,55.139",
+   "transit": "Palm Gateway Monorail"
+  },
+  {
+   "id": 26,
+   "name": "JBR The Beach",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "beach",
+    "marina",
+    "boardwalk"
+   ],
+   "description": "Lively beachfront with skyline of Marina and Ain Dubai.",
+   "tip": "Weekday mornings are calmest.",
+   "lat": 25.078,
+   "lng": 55.133,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.078,55.133",
+   "transit": "JBR 1 Tram"
+  },
+  {
+   "id": 27,
+   "name": "Dubai Water Canal Bridge",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "canal",
+    "lights",
+    "walk"
+   ],
+   "description": "Glowing bridge and canal promenade near Safa Park.",
+   "tip": "Visit in the evening when the lights are on.",
+   "lat": 25.2128,
+   "lng": 55.268,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2128,55.268",
+   "transit": "Bus 8 / Business Bay Metro + taxi"
+  },
+  {
+   "id": 28,
+   "name": "Madinat Jumeirah (Souk Madinat)",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "souk",
+    "burj-al-arab",
+    "abra"
+   ],
+   "description": "Waterways, souk lanes and framed views of Burj Al Arab.",
+   "tip": "Take the abra ride at dusk.",
+   "lat": 25.133,
+   "lng": 55.1856,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.133,55.1856",
+   "transit": "Mall of the Emirates Metro + taxi"
+  },
+  {
+   "id": 29,
+   "name": "Gold Souk",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "gold",
+    "deira",
+    "market"
+   ],
+   "description": "Dense market lanes of gold jewellery in Deira.",
+   "tip": "Bargain politely; compare per-gram rates.",
+   "lat": 25.2868,
+   "lng": 55.297,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2868,55.297",
+   "transit": "Al Ras Metro"
+  },
+  {
+   "id": 30,
+   "name": "Dubai Creek Dhow Cruise",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "dhow",
+    "dinner",
+    "creek"
+   ],
+   "description": "Traditional wooden boat cruise along the Creek.",
+   "tip": "Pick the evening cruise for lit-up towers.",
+   "lat": 25.268,
+   "lng": 55.3,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.268,55.3",
+   "transit": "Baniyas Square Metro"
+  },
+  {
+   "id": 31,
+   "name": "Abra Ride (Bur Dubai to Deira)",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "abra",
+    "creek",
+    "cheap"
+   ],
+   "description": "Cheap and classic wooden-boat hop across the Creek.",
+   "tip": "Pay a few dirhams; board at Bur Dubai Abra Station.",
+   "lat": 25.2652,
+   "lng": 55.2969,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2652,55.2969",
+   "transit": "Al Ghubaiba Metro"
+  },
+  {
+   "id": 32,
+   "name": "Dubai Creek Park Cable Car",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "cable-car",
+    "park",
+    "creek"
+   ],
+   "description": "Cable car over a shaded park with Creek views.",
+   "tip": "Go late afternoon for cooler air and soft light.",
+   "lat": 25.242,
+   "lng": 55.333,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.242,55.333",
+   "transit": "Dubai Healthcare City Metro"
+  },
+  {
+   "id": 33,
+   "name": "Hatta Dam",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "lake",
+    "mountains",
+    "kayak"
+   ],
+   "description": "Turquoise dam lake framed by Hajar mountains.",
+   "tip": "Visit in winter and bring sun protection.",
+   "lat": 24.8105,
+   "lng": 56.119,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=24.8105,56.119",
+   "transit": "Bus E16 from Al Ghubaiba"
+  },
+  {
+   "id": 34,
+   "name": "Dubai Harbour Waterfront",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "yachts",
+    "palm",
+    "sunset"
+   ],
+   "description": "New promenade with yachts and Palm Jumeirah views.",
+   "tip": "Sunset gives the best skyline glow.",
+   "lat": 25.0905,
+   "lng": 55.134,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.0905,55.134",
+   "transit": "Sobha Realty Tram + taxi"
+  },
+  {
+   "id": 35,
+   "name": "Spice Souk",
+   "category": "views",
+   "badge": "🌆 Iconic Views & Sights",
+   "tags": [
+    "spices",
+    "deira",
+    "market"
+   ],
+   "description": "Fragrant Deira market of spices, incense and dried fruit.",
+   "tip": "Start from the abra station and walk up.",
+   "lat": 25.2693,
+   "lng": 55.299,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2693,55.299",
+   "transit": "Al Ras Metro"
+  },
+  {
+   "id": 36,
+   "name": "Al Ustad Special Kabab",
+   "category": "food",
+   "badge": "🍽️ Food & Dining",
+   "tags": [
+    "persian",
+    "kebab",
+    "legendary"
+   ],
+   "description": "Iconic Persian kebab joint serving since 1978.",
+   "tip": "Order chelo kabab and mint yogurt; cash is handy.",
+   "lat": 25.2544,
+   "lng": 55.296,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2544,55.296",
+   "transit": "Al Fahidi / Bur Dubai Metro + taxi"
+  },
+  {
+   "id": 37,
+   "name": "Arabian Tea House",
+   "category": "food",
+   "badge": "🍽️ Food & Dining",
+   "tags": [
+    "emirati",
+    "courtyard",
+    "tea"
+   ],
+   "description": "Al Fahidi courtyard cafe for Emirati breakfast and tea.",
+   "tip": "Sit outside in cooler months; try balaleet.",
+   "lat": 25.2634,
+   "lng": 55.2972,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2634,55.2972",
+   "transit": "Al Fahidi Metro"
+  },
+  {
+   "id": 38,
+   "name": "CÉ LA VI Dubai",
+   "category": "food",
+   "badge": "🍽️ Food & Dining",
+   "tags": [
+    "rooftop",
+    "sky-bar",
+    "views"
+   ],
+   "description": "Rooftop restaurant and club with sweeping skyline views.",
+   "tip": "Book ahead; smart-casual dress code.",
+   "lat": 25.1898,
+   "lng": 55.2597,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1898,55.2597",
+   "transit": "Burj Khalifa/Dubai Mall Metro + taxi"
+  },
+  {
+   "id": 39,
+   "name": "Pierchic",
+   "category": "food",
+   "badge": "🍽️ Food & Dining",
+   "tags": [
+    "seafood",
+    "pier",
+    "romantic"
+   ],
+   "description": "Over-the-water seafood restaurant with Burj Al Arab views.",
+   "tip": "Request an outdoor sunset table.",
+   "lat": 25.1337,
+   "lng": 55.1855,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1337,55.1855",
+   "transit": "Mall of the Emirates Metro + taxi"
+  },
+  {
+   "id": 40,
+   "name": "Bu Qtair",
+   "category": "food",
+   "badge": "🍽️ Food & Dining",
+   "tags": [
+    "seafood",
+    "local",
+    "beach"
+   ],
+   "description": "Legendary no-frills fish shack near Burj Al Arab.",
+   "tip": "Cash friendly; go before 7pm to beat queues.",
+   "lat": 25.1394,
+   "lng": 55.1938,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1394,55.1938",
+   "transit": "Mall of the Emirates Metro + taxi"
+  },
+  {
+   "id": 41,
+   "name": "Time Out Market Dubai",
+   "category": "food",
+   "badge": "🍽️ Food & Dining",
+   "tags": [
+    "food-hall",
+    "souk-al-bahar",
+    "burj-view"
+   ],
+   "description": "Food hall with chef-led counters and Burj Khalifa views.",
+   "tip": "Grab a terrace table before the fountain show.",
+   "lat": 25.1925,
+   "lng": 55.276,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1925,55.276",
+   "transit": "Burj Khalifa/Dubai Mall Metro"
+  },
+  {
+   "id": 42,
+   "name": "3Fils",
+   "category": "food",
+   "badge": "🍽️ Food & Dining",
+   "tags": [
+    "fusion",
+    "fishing-harbour",
+    "chef"
+   ],
+   "description": "Cult casual fusion spot at Jumeirah Fishing Harbour.",
+   "tip": "Book ahead; try the chef's selections.",
+   "lat": 25.2318,
+   "lng": 55.264,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2318,55.264",
+   "transit": "Taxi from Burj Khalifa Metro"
+  },
+  {
+   "id": 43,
+   "name": "Orfali Bros Bistro",
+   "category": "food",
+   "badge": "🍽️ Food & Dining",
+   "tags": [
+    "levantine",
+    "modern",
+    "bestseller"
+   ],
+   "description": "Syrian-brother-led modern Levantine bistro in Wasl 51.",
+   "tip": "Reserve; share dishes to try more.",
+   "lat": 25.2085,
+   "lng": 55.2545,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2085,55.2545",
+   "transit": "Taxi from Business Bay Metro"
+  },
+  {
+   "id": 44,
+   "name": "Ravi Restaurant",
+   "category": "food",
+   "badge": "🍽️ Food & Dining",
+   "tags": [
+    "pakistani",
+    "budget",
+    "cult"
+   ],
+   "description": "Long-running budget Pakistani favourite in Satwa.",
+   "tip": "Try the chicken karahi and fresh naan.",
+   "lat": 25.2318,
+   "lng": 55.268,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2318,55.268",
+   "transit": "Bus 8 / taxi"
+  },
+  {
+   "id": 45,
+   "name": "Al Mallah",
+   "category": "food",
+   "badge": "🍽️ Food & Dining",
+   "tags": [
+    "shawarma",
+    "levantine",
+    "takeaway"
+   ],
+   "description": "Satwa classic for shawarma, falafel and fresh juices.",
+   "tip": "Eat outside at the street tables.",
+   "lat": 25.2313,
+   "lng": 55.2683,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2313,55.2683",
+   "transit": "Bus 8 / taxi"
+  },
+  {
+   "id": 46,
+   "name": "Al Fanar Restaurant",
+   "category": "food",
+   "badge": "🍽️ Food & Dining",
+   "tags": [
+    "emirati",
+    "heritage",
+    "festival-city"
+   ],
+   "description": "Heritage-themed Emirati dining with traditional dishes.",
+   "tip": "Try the machboos and luqaimat dessert.",
+   "lat": 25.222,
+   "lng": 55.351,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.222,55.351",
+   "transit": "Dubai Festival City bus / taxi"
+  },
+  {
+   "id": 47,
+   "name": "Pai Thai",
+   "category": "food",
+   "badge": "🍽️ Food & Dining",
+   "tags": [
+    "thai",
+    "madinat",
+    "boats"
+   ],
+   "description": "Romantic Thai dining arriving by abra at Madinat Jumeirah.",
+   "tip": "Book an outdoor table for Burj Al Arab views.",
+   "lat": 25.133,
+   "lng": 55.185,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.133,55.185",
+   "transit": "Mall of the Emirates Metro + taxi"
+  },
+  {
+   "id": 48,
+   "name": "Special Ostadi",
+   "category": "food",
+   "badge": "🍽️ Food & Dining",
+   "tags": [
+    "persian",
+    "kebab",
+    "deira"
+   ],
+   "description": "Beloved Persian kebab spot in Deira.",
+   "tip": "Come hungry; portions are generous.",
+   "lat": 25.2619,
+   "lng": 55.3115,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2619,55.3115",
+   "transit": "Baniyas Square / Union Metro"
+  },
+  {
+   "id": 49,
+   "name": "Hatam Restaurant",
+   "category": "food",
+   "badge": "🍽️ Food & Dining",
+   "tags": [
+    "persian",
+    "deira",
+    "grill"
+   ],
+   "description": "Well-known Persian grill in Deira.",
+   "tip": "Pair with fresh herbs and saffron rice.",
+   "lat": 25.2704,
+   "lng": 55.3002,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2704,55.3002",
+   "transit": "Baniyas Square Metro"
+  },
+  {
+   "id": 50,
+   "name": "Khan Murjan",
+   "category": "food",
+   "badge": "🍽️ Food & Dining",
+   "tags": [
+    "souk",
+    "market",
+    "arabian"
+   ],
+   "description": "Underground-style Moroccan-inspired souk with dining.",
+   "tip": "Great for evenings; bring cash for shopping.",
+   "lat": 25.2285,
+   "lng": 55.323,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2285,55.323",
+   "transit": "Healthcare City / Creek Metro"
+  },
+  {
+   "id": 51,
+   "name": "Sikka Cafe",
+   "category": "food",
+   "badge": "🍽️ Food & Dining",
+   "tags": [
+    "cafe",
+    "al-fahidi",
+    "emirati"
+   ],
+   "description": "Cafe in an Al Fahidi courtyard with Emirati fusion bites.",
+   "tip": "Pair with a walk through the neighbourhood.",
+   "lat": 25.264,
+   "lng": 55.299,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.264,55.299",
+   "transit": "Al Fahidi Metro"
+  },
+  {
+   "id": 52,
+   "name": "Bayt Al Wakeel",
+   "category": "food",
+   "badge": "🍽️ Food & Dining",
+   "tags": [
+    "creek",
+    "abra",
+    "traditional"
+   ],
+   "description": "Creekside traditional restaurant in Bur Dubai.",
+   "tip": "Request a creek-view table; cooler evenings best.",
+   "lat": 25.2645,
+   "lng": 55.2952,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2645,55.2952",
+   "transit": "Al Ghubaiba Metro"
+  },
+  {
+   "id": 53,
+   "name": "Nightjar Coffee Roasters",
+   "category": "cafe",
+   "badge": "☕ Cafes, Nightlife & Drinks",
+   "tags": [
+    "specialty-coffee",
+    "roastery",
+    "al-quoz"
+   ],
+   "description": "Specialty coffee roaster with laid-back Al Quoz vibes.",
+   "tip": "Great post-Alserkal Avenue stop.",
+   "lat": 25.141,
+   "lng": 55.225,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.141,55.225",
+   "transit": "Noor Bank Metro + taxi"
+  },
+  {
+   "id": 54,
+   "name": "Tom&Serg",
+   "category": "cafe",
+   "badge": "☕ Cafes, Nightlife & Drinks",
+   "tags": [
+    "brunch",
+    "industrial",
+    "flat-white"
+   ],
+   "description": "Industrial-chic brunch spot in Al Quoz.",
+   "tip": "Weekend brunch gets busy; arrive early.",
+   "lat": 25.1415,
+   "lng": 55.229,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1415,55.229",
+   "transit": "Noor Bank Metro + taxi"
+  },
+  {
+   "id": 55,
+   "name": "Zuma Dubai",
+   "category": "cafe",
+   "badge": "☕ Cafes, Nightlife & Drinks",
+   "tags": [
+    "japanese",
+    "difc",
+    "izakaya"
+   ],
+   "description": "Contemporary Japanese izakaya in DIFC.",
+   "tip": "Book for dinner; reserve the bar for drinks.",
+   "lat": 25.2118,
+   "lng": 55.279,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2118,55.279",
+   "transit": "Financial Centre Metro"
+  },
+  {
+   "id": 56,
+   "name": "SUSHISAMBA",
+   "category": "cafe",
+   "badge": "☕ Cafes, Nightlife & Drinks",
+   "tags": [
+    "rooftop",
+    "palm",
+    "peruvian"
+   ],
+   "description": "Palm-top Japanese-Peruvian bar with skyline views.",
+   "tip": "Go at golden hour; book terrace seats.",
+   "lat": 25.1306,
+   "lng": 55.1177,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1306,55.1177",
+   "transit": "Palm Gateway Monorail + taxi"
+  },
+  {
+   "id": 57,
+   "name": "Galaxy Bar",
+   "category": "cafe",
+   "badge": "☕ Cafes, Nightlife & Drinks",
+   "tags": [
+    "cocktails",
+    "lounge",
+    "nightlife"
+   ],
+   "description": "Stylish lounge for cocktails and live DJs.",
+   "tip": "Check dress code and entry policy first.",
+   "lat": 25.192,
+   "lng": 55.278,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.192,55.278",
+   "transit": "Burj Khalifa/Dubai Mall Metro"
+  },
+  {
+   "id": 58,
+   "name": "Buddha-Bar Dubai",
+   "category": "cafe",
+   "badge": "☕ Cafes, Nightlife & Drinks",
+   "tags": [
+    "asian",
+    "lounge",
+    "marina"
+   ],
+   "description": "Asian fusion lounge with signature Buddha-Bar music.",
+   "tip": "Reserve a table; dress smart.",
+   "lat": 25.0988,
+   "lng": 55.1465,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.0988,55.1465",
+   "transit": "DAMAC Properties Metro + taxi"
+  },
+  {
+   "id": 59,
+   "name": "Level 43 Sky Lounge",
+   "category": "cafe",
+   "badge": "☕ Cafes, Nightlife & Drinks",
+   "tags": [
+    "sky-lounge",
+    "sheikh-zayed",
+    "views"
+   ],
+   "description": "Sky lounge with Burj Khalifa views.",
+   "tip": "Arrive before sunset for window tables.",
+   "lat": 25.2038,
+   "lng": 55.2715,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2038,55.2715",
+   "transit": "Emirates Towers Metro"
+  },
+  {
+   "id": 60,
+   "name": "Skyview Bar (Burj Al Arab)",
+   "category": "cafe",
+   "badge": "☕ Cafes, Nightlife & Drinks",
+   "tags": [
+    "iconic",
+    "afternoon-tea",
+    "luxury"
+   ],
+   "description": "Luxury lounge with panoramic views of the Arabian Gulf.",
+   "tip": "Reserve in advance; minimum spend applies.",
+   "lat": 25.1412,
+   "lng": 55.1853,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1412,55.1853",
+   "transit": "Mall of the Emirates Metro + taxi"
+  },
+  {
+   "id": 61,
+   "name": "At.mosphere",
+   "category": "cafe",
+   "badge": "☕ Cafes, Nightlife & Drinks",
+   "tags": [
+    "burj-khalifa",
+    "fine-dining",
+    "sky"
+   ],
+   "description": "Fine dining and drinks on level 122 of Burj Khalifa.",
+   "tip": "Reserve ahead; strict dress code.",
+   "lat": 25.1972,
+   "lng": 55.2744,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1972,55.2744",
+   "transit": "Burj Khalifa/Dubai Mall Metro"
+  },
+  {
+   "id": 62,
+   "name": "Cafe Rider",
+   "category": "cafe",
+   "badge": "☕ Cafes, Nightlife & Drinks",
+   "tags": [
+    "bikers",
+    "coffee",
+    "jumeirah"
+   ],
+   "description": "Cyclist and biker hangout with coffee and light bites.",
+   "tip": "Perfect before or after a beach ride.",
+   "lat": 25.2093,
+   "lng": 55.2437,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2093,55.2437",
+   "transit": "Bus / taxi"
+  },
+  {
+   "id": 63,
+   "name": "Pier 7 Dubai Marina",
+   "category": "cafe",
+   "badge": "☕ Cafes, Nightlife & Drinks",
+   "tags": [
+    "marina",
+    "dining",
+    "multi-level"
+   ],
+   "description": "Seven-level dining and bar tower at Dubai Marina.",
+   "tip": "Ask for terrace levels for views.",
+   "lat": 25.078,
+   "lng": 55.1405,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.078,55.1405",
+   "transit": "Dubai Marina Tram"
+  },
+  {
+   "id": 64,
+   "name": "Barasti Beach Bar",
+   "category": "cafe",
+   "badge": "☕ Cafes, Nightlife & Drinks",
+   "tags": [
+    "beach",
+    "sundowners",
+    "live-music"
+   ],
+   "description": "Casual beach bar popular for sundowners.",
+   "tip": "Weeknights are mellow; weekends busy.",
+   "lat": 25.0918,
+   "lng": 55.1478,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.0918,55.1478",
+   "transit": "Mina Seyahi Tram"
+  },
+  {
+   "id": 65,
+   "name": "Wild & The Moon DIFC",
+   "category": "cafe",
+   "badge": "☕ Cafes, Nightlife & Drinks",
+   "tags": [
+    "healthy",
+    "juice",
+    "cafe"
+   ],
+   "description": "Healthy cafe and juice bar in DIFC.",
+   "tip": "Good light-lunch stop near Zuma.",
+   "lat": 25.2105,
+   "lng": 55.278,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2105,55.278",
+   "transit": "Financial Centre Metro"
+  },
+  {
+   "id": 66,
+   "name": "Jetty Lounge",
+   "category": "cafe",
+   "badge": "☕ Cafes, Nightlife & Drinks",
+   "tags": [
+    "royal-mirage",
+    "marina-view",
+    "sundowner"
+   ],
+   "description": "Sundowner lounge at One&Only Royal Mirage.",
+   "tip": "Arrive 30 min before sunset.",
+   "lat": 25.1005,
+   "lng": 55.1535,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1005,55.1535",
+   "transit": "Mina Seyahi Tram + taxi"
+  },
+  {
+   "id": 67,
+   "name": "XVA Cafe",
+   "category": "cafe",
+   "badge": "☕ Cafes, Nightlife & Drinks",
+   "tags": [
+    "courtyard",
+    "vegetarian",
+    "art"
+   ],
+   "description": "Peaceful courtyard cafe and gallery in Al Fahidi.",
+   "tip": "Great afternoon break while exploring Bur Dubai.",
+   "lat": 25.2644,
+   "lng": 55.2975,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2644,55.2975",
+   "transit": "Al Fahidi Metro"
+  },
+  {
+   "id": 68,
+   "name": "Bateel Cafe (Dubai Mall)",
+   "category": "cafe",
+   "badge": "☕ Cafes, Nightlife & Drinks",
+   "tags": [
+    "dates",
+    "coffee",
+    "gift"
+   ],
+   "description": "Cafe famous for premium dates and coffee.",
+   "tip": "Great gifts; try the date pudding.",
+   "lat": 25.1975,
+   "lng": 55.2796,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1975,55.2796",
+   "transit": "Burj Khalifa/Dubai Mall Metro"
+  },
+  {
+   "id": 69,
+   "name": "Al Qudra Cycling Track",
+   "category": "active",
+   "badge": "🏃 Run, Bike & Active",
+   "tags": [
+    "cycling",
+    "desert",
+    "love-lakes"
+   ],
+   "description": "86km loop through desert with lakes and flamingos.",
+   "tip": "Go at sunrise in winter; carry water.",
+   "lat": 24.8355,
+   "lng": 55.379,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=24.8355,55.379",
+   "transit": "Bus / taxi"
+  },
+  {
+   "id": 70,
+   "name": "Nad Al Sheba Cycle Track",
+   "category": "active",
+   "badge": "🏃 Run, Bike & Active",
+   "tags": [
+    "cycling",
+    "night",
+    "track"
+   ],
+   "description": "Floodlit cycle track popular with club riders.",
+   "tip": "Best for evening rides in cooler months.",
+   "lat": 25.1624,
+   "lng": 55.3081,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1624,55.3081",
+   "transit": "Bus / taxi"
+  },
+  {
+   "id": 71,
+   "name": "Jumeirah Beach Running Track",
+   "category": "active",
+   "badge": "🏃 Run, Bike & Active",
+   "tags": [
+    "running",
+    "beach",
+    "promenade"
+   ],
+   "description": "Paved coastal track running past Jumeirah beaches.",
+   "tip": "Run before 8am or after 5pm.",
+   "lat": 25.2057,
+   "lng": 55.248,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2057,55.248",
+   "transit": "Bus / taxi"
+  },
+  {
+   "id": 72,
+   "name": "Dubai Marina Walk",
+   "category": "active",
+   "badge": "🏃 Run, Bike & Active",
+   "tags": [
+    "walking",
+    "marina",
+    "promenade"
+   ],
+   "description": "Flat waterfront promenade around Dubai Marina.",
+   "tip": "Great for 5km loops; sunset is stunning.",
+   "lat": 25.0805,
+   "lng": 55.1403,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.0805,55.1403",
+   "transit": "Dubai Marina Tram"
+  },
+  {
+   "id": 73,
+   "name": "Kite Beach Track",
+   "category": "active",
+   "badge": "🏃 Run, Bike & Active",
+   "tags": [
+    "running",
+    "kite",
+    "beach"
+   ],
+   "description": "Beach track with outdoor gyms and watersports.",
+   "tip": "Check wind for kitesurf days.",
+   "lat": 25.163,
+   "lng": 55.195,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.163,55.195",
+   "transit": "Bus / taxi"
+  },
+  {
+   "id": 74,
+   "name": "Mushrif Park MTB",
+   "category": "active",
+   "badge": "🏃 Run, Bike & Active",
+   "tags": [
+    "mountain-bike",
+    "trails",
+    "park"
+   ],
+   "description": "Forested park with beginner mountain-bike trails.",
+   "tip": "Weekdays quieter; bring your own bike.",
+   "lat": 25.22,
+   "lng": 55.44,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.22,55.44",
+   "transit": "Bus / taxi"
+  },
+  {
+   "id": 75,
+   "name": "Zabeel Park",
+   "category": "active",
+   "badge": "🏃 Run, Bike & Active",
+   "tags": [
+    "park",
+    "running",
+    "family"
+   ],
+   "description": "Large city park with jogging track and lakes.",
+   "tip": "Perfect for easy morning laps.",
+   "lat": 25.23,
+   "lng": 55.294,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.23,55.294",
+   "transit": "Burjuman / Zabeel station"
+  },
+  {
+   "id": 76,
+   "name": "Safa Park",
+   "category": "active",
+   "badge": "🏃 Run, Bike & Active",
+   "tags": [
+    "park",
+    "jogging",
+    "family"
+   ],
+   "description": "Central park with jogging loops and lawns.",
+   "tip": "Visit early or late to avoid heat.",
+   "lat": 25.186,
+   "lng": 55.237,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.186,55.237",
+   "transit": "Bus / taxi"
+  },
+  {
+   "id": 77,
+   "name": "Dubai Water Canal Walk",
+   "category": "active",
+   "badge": "🏃 Run, Bike & Active",
+   "tags": [
+    "walking",
+    "canal",
+    "bridge"
+   ],
+   "description": "Promenade along the canal with a lit bridge.",
+   "tip": "Stroll in the evening for cooler air.",
+   "lat": 25.2115,
+   "lng": 55.268,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2115,55.268",
+   "transit": "Business Bay Metro + taxi"
+  },
+  {
+   "id": 78,
+   "name": "Skydive Dubai Marina",
+   "category": "active",
+   "badge": "🏃 Run, Bike & Active",
+   "tags": [
+    "skydive",
+    "adrenaline",
+    "marina"
+   ],
+   "description": "Tandem skydiving over Marina and Palm.",
+   "tip": "Book ahead; check weather conditions.",
+   "lat": 25.075,
+   "lng": 55.136,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.075,55.136",
+   "transit": "Dubai Marina Tram"
+  },
+  {
+   "id": 79,
+   "name": "JLT Park",
+   "category": "active",
+   "badge": "🏃 Run, Bike & Active",
+   "tags": [
+    "park",
+    "jogging",
+    "lake"
+   ],
+   "description": "Pleasant park around Jumeirah Lakes Towers.",
+   "tip": "Good for casual evening runs.",
+   "lat": 25.0745,
+   "lng": 55.148,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.0745,55.148",
+   "transit": "JLT Metro"
+  },
+  {
+   "id": 80,
+   "name": "Dubai Creek Harbour Cycle Path",
+   "category": "active",
+   "badge": "🏃 Run, Bike & Active",
+   "tags": [
+    "cycling",
+    "creek",
+    "promenade"
+   ],
+   "description": "Waterfront cycle path with skyline backdrop.",
+   "tip": "Rent a bike near the promenade.",
+   "lat": 25.2,
+   "lng": 55.35,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2,55.35",
+   "transit": "Creek Metro + taxi"
+  },
+  {
+   "id": 81,
+   "name": "Hatta Mountain Bike Trails",
+   "category": "active",
+   "badge": "🏃 Run, Bike & Active",
+   "tags": [
+    "mtb",
+    "mountains",
+    "hatta"
+   ],
+   "description": "Mountain-bike trails around the Hajar mountains.",
+   "tip": "Go in winter; carry plenty of water.",
+   "lat": 24.8,
+   "lng": 56.12,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=24.8,56.12",
+   "transit": "Bus E16 from Al Ghubaiba"
+  },
+  {
+   "id": 82,
+   "name": "Hatta Kayaking",
+   "category": "active",
+   "badge": "🏃 Run, Bike & Active",
+   "tags": [
+    "kayak",
+    "dam",
+    "lake"
+   ],
+   "description": "Calm lake kayaking at Hatta Dam.",
+   "tip": "Choose morning slots; wear sun protection.",
+   "lat": 24.807,
+   "lng": 56.118,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=24.807,56.118",
+   "transit": "Bus E16 from Al Ghubaiba"
+  },
+  {
+   "id": 83,
+   "name": "Love Lakes (Al Qudra)",
+   "category": "active",
+   "badge": "🏃 Run, Bike & Active",
+   "tags": [
+    "lakes",
+    "wildlife",
+    "photography"
+   ],
+   "description": "Heart-shaped lakes near Al Qudra with wildlife.",
+   "tip": "Sunrise offers soft light and birdlife.",
+   "lat": 24.818,
+   "lng": 55.37,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=24.818,55.37",
+   "transit": "Bus / taxi"
+  },
+  {
+   "id": 84,
+   "name": "La Mer Beach Walk",
+   "category": "active",
+   "badge": "🏃 Run, Bike & Active",
+   "tags": [
+    "beach",
+    "promenade",
+    "family"
+   ],
+   "description": "Coastal promenade with cafes and a water play area.",
+   "tip": "Visit at golden hour; busy at weekends.",
+   "lat": 25.233,
+   "lng": 55.264,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.233,55.264",
+   "transit": "Bus / taxi"
+  },
+  {
+   "id": 85,
+   "name": "Bluewaters Promenade",
+   "category": "active",
+   "badge": "🏃 Run, Bike & Active",
+   "tags": [
+    "promenade",
+    "marina",
+    "views"
+   ],
+   "description": "Walkable island promenade with marina views.",
+   "tip": "Stroll toward Ain Dubai for photos.",
+   "lat": 25.0805,
+   "lng": 55.119,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.0805,55.119",
+   "transit": "JBR 1 Tram + walk"
+  },
+  {
+   "id": 86,
+   "name": "Ski Dubai",
+   "category": "indoor",
+   "badge": "❄️ Air-Con Refresh & Indoor Chill",
+   "tags": [
+    "snow",
+    "penguins",
+    "mall"
+   ],
+   "description": "Indoor ski slope with real snow and penguin encounters.",
+   "tip": "Book timed sessions; wear socks and gloves.",
+   "lat": 25.1181,
+   "lng": 55.1996,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1181,55.1996",
+   "transit": "Mall of the Emirates Metro"
+  },
+  {
+   "id": 87,
+   "name": "The Green Planet",
+   "category": "indoor",
+   "badge": "❄️ Air-Con Refresh & Indoor Chill",
+   "tags": [
+    "rainforest",
+    "bio-dome",
+    "city-walk"
+   ],
+   "description": "Indoor tropical rainforest with animals and plants.",
+   "tip": "Weekday mornings are calm; allow 2 hours.",
+   "lat": 25.2046,
+   "lng": 55.2631,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2046,55.2631",
+   "transit": "Bus / taxi"
+  },
+  {
+   "id": 88,
+   "name": "Dubai Aquarium & Underwater Zoo",
+   "category": "indoor",
+   "badge": "❄️ Air-Con Refresh & Indoor Chill",
+   "tags": [
+    "aquarium",
+    "sharks",
+    "mall"
+   ],
+   "description": "Giant aquarium tank inside Dubai Mall.",
+   "tip": "Book combo tickets; visit weekdays.",
+   "lat": 25.1975,
+   "lng": 55.2796,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1975,55.2796",
+   "transit": "Burj Khalifa/Dubai Mall Metro"
+  },
+  {
+   "id": 89,
+   "name": "IMG Worlds of Adventure",
+   "category": "indoor",
+   "badge": "❄️ Air-Con Refresh & Indoor Chill",
+   "tags": [
+    "theme-park",
+    "marvel",
+    "family"
+   ],
+   "description": "World's largest indoor theme park.",
+   "tip": "Visit on weekdays; wear comfy shoes.",
+   "lat": 25.078,
+   "lng": 55.345,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.078,55.345",
+   "transit": "Bus / taxi"
+  },
+  {
+   "id": 90,
+   "name": "Deep Dive Dubai",
+   "category": "indoor",
+   "badge": "❄️ Air-Con Refresh & Indoor Chill",
+   "tags": [
+    "diving",
+    "pool",
+    "deep"
+   ],
+   "description": "World's deepest pool for diving experiences.",
+   "tip": "Book a try-dive; no experience needed.",
+   "lat": 25.2,
+   "lng": 55.3,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2,55.3",
+   "transit": "Bus / taxi"
+  },
+  {
+   "id": 91,
+   "name": "Museum of Illusions",
+   "category": "indoor",
+   "badge": "❄️ Air-Con Refresh & Indoor Chill",
+   "tags": [
+    "optical",
+    "family",
+    "photos"
+   ],
+   "description": "Mind-bending optical-illusion museum.",
+   "tip": "Bring a camera; ideal for rainy or hot days.",
+   "lat": 25.2603,
+   "lng": 55.309,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2603,55.309",
+   "transit": "BurJuman Metro"
+  },
+  {
+   "id": 92,
+   "name": "Mall of the Emirates",
+   "category": "indoor",
+   "badge": "❄️ Air-Con Refresh & Indoor Chill",
+   "tags": [
+    "mall",
+    "ski",
+    "shopping"
+   ],
+   "description": "Giant mall with Ski Dubai and cinemas.",
+   "tip": "Visit at midday to escape the heat.",
+   "lat": 25.1185,
+   "lng": 55.2,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1185,55.2",
+   "transit": "Mall of the Emirates Metro"
+  },
+  {
+   "id": 93,
+   "name": "Dubai Ice Rink",
+   "category": "indoor",
+   "badge": "❄️ Air-Con Refresh & Indoor Chill",
+   "tags": [
+    "ice-skating",
+    "mall",
+    "family"
+   ],
+   "description": "Olympic-size rink in Dubai Mall.",
+   "tip": "Skate rentals available; check sessions.",
+   "lat": 25.1975,
+   "lng": 55.2796,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1975,55.2796",
+   "transit": "Burj Khalifa/Dubai Mall Metro"
+  },
+  {
+   "id": 94,
+   "name": "VR Park Dubai Mall",
+   "category": "indoor",
+   "badge": "❄️ Air-Con Refresh & Indoor Chill",
+   "tags": [
+    "vr",
+    "arcade",
+    "family"
+   ],
+   "description": "Virtual reality attractions inside Dubai Mall.",
+   "tip": "Book online; sessions vary.",
+   "lat": 25.1975,
+   "lng": 55.2796,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1975,55.2796",
+   "transit": "Burj Khalifa/Dubai Mall Metro"
+  },
+  {
+   "id": 95,
+   "name": "Ibn Battuta Mall",
+   "category": "indoor",
+   "badge": "❄️ Air-Con Refresh & Indoor Chill",
+   "tags": [
+    "themed-mall",
+    "history",
+    "shopping"
+   ],
+   "description": "Mall themed on Ibn Battuta's journeys.",
+   "tip": "Walk the themed courts; great architecture.",
+   "lat": 25.0455,
+   "lng": 55.118,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.0455,55.118",
+   "transit": "Ibn Battuta Metro"
+  },
+  {
+   "id": 96,
+   "name": "Mercato Mall",
+   "category": "indoor",
+   "badge": "❄️ Air-Con Refresh & Indoor Chill",
+   "tags": [
+    "mall",
+    "jumeirah",
+    "shopping"
+   ],
+   "description": "Venetian-style mall on Jumeirah Road.",
+   "tip": "Weekday afternoons are calm.",
+   "lat": 25.218,
+   "lng": 55.253,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.218,55.253",
+   "transit": "Bus / taxi"
+  },
+  {
+   "id": 97,
+   "name": "Dubai Festival City Mall",
+   "category": "indoor",
+   "badge": "❄️ Air-Con Refresh & Indoor Chill",
+   "tags": [
+    "mall",
+    "creek",
+    "dining"
+   ],
+   "description": "Mall near the Creek with IKEA and dining.",
+   "tip": "Evening laser show is outside.",
+   "lat": 25.222,
+   "lng": 55.351,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.222,55.351",
+   "transit": "Bus / taxi"
+  },
+  {
+   "id": 98,
+   "name": "City Walk",
+   "category": "indoor",
+   "badge": "❄️ Air-Con Refresh & Indoor Chill",
+   "tags": [
+    "outdoor-mall",
+    "dining",
+    "art"
+   ],
+   "description": "Open-air district with dining and art.",
+   "tip": "Better in cooler months; many shaded areas.",
+   "lat": 25.2063,
+   "lng": 55.2631,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2063,55.2631",
+   "transit": "Bus / taxi"
+  },
+  {
+   "id": 99,
+   "name": "Mirdif City Centre",
+   "category": "indoor",
+   "badge": "❄️ Air-Con Refresh & Indoor Chill",
+   "tags": [
+    "mall",
+    "family",
+    "cinema"
+   ],
+   "description": "Large family mall in Mirdif with cinema.",
+   "tip": "Easy weekday visit; parking ample.",
+   "lat": 25.217,
+   "lng": 55.407,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.217,55.407",
+   "transit": "Bus / taxi"
+  },
+  {
+   "id": 100,
+   "name": "Wafi Mall",
+   "category": "indoor",
+   "badge": "❄️ Air-Con Refresh & Indoor Chill",
+   "tags": [
+    "mall",
+    "egyptian",
+    "luxury"
+   ],
+   "description": "Egyptian-themed luxury mall in Oud Metha.",
+   "tip": "Visit the pyramid glass roof; great architecture.",
+   "lat": 25.2286,
+   "lng": 55.32,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.2286,55.32",
+   "transit": "Healthcare City / Creek Metro"
+  },
+  {
+   "id": 101,
+   "name": "BurJuman Mall",
+   "category": "indoor",
+   "badge": "❄️ Air-Con Refresh & Indoor Chill",
+   "tags": [
+    "mall",
+    "luxury",
+    "central"
+   ],
+   "description": "Central luxury mall with direct metro access.",
+   "tip": "Weekday afternoons are best.",
+   "lat": 25.254,
+   "lng": 55.303,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.254,55.303",
+   "transit": "BurJuman Metro"
+  },
+  {
+   "id": 102,
+   "name": "KidZania Dubai",
+   "category": "indoor",
+   "badge": "❄️ Air-Con Refresh & Indoor Chill",
+   "tags": [
+    "kids",
+    "roleplay",
+    "mall"
+   ],
+   "description": "Kid-sized city where children role-play jobs.",
+   "tip": "Book morning sessions; allow 4 hours.",
+   "lat": 25.1971,
+   "lng": 55.2798,
+   "mapsUrl": "https://www.google.com/maps/search/?api=1&query=25.1971,55.2798",
+   "transit": "Burj Khalifa/Dubai Mall Metro"
+  }
+ ]
+}
